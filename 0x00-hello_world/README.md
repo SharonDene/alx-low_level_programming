@@ -1,0 +1,1 @@
+This is the introductory project of the C programming langage learning
