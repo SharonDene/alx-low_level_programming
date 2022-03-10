@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *main function
+ *main-first function
  *
- *return always 0
+ *return: end execution of function and return 0
  */
 int main(void)
 {
