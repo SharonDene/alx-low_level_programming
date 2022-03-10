@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *main-first function
+ *main - first function
  *
- *return: return 0 (Sucess)
+ *Return: Alwaysx 0 (Sucess)
  */
 int main(void)
 {
