@@ -3,9 +3,9 @@
 /**
  *main - display alphabet letter in lowercase
  *
- *return: Always 0 (Sucess)
+ *return: Always 0 (Success)
  */
-int main (void)
+int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
