@@ -1,0 +1,1 @@
+This project is to deep dive in arrays and strings
